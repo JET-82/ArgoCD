@@ -5,6 +5,8 @@
 3. ArgoCD 설치
 4. ArgoCD 구현
 
+<br/>
+<br/>
 
 ## 1. 사전 작업
 ### 1) 로컬 서버에 AWS CLI 설치
